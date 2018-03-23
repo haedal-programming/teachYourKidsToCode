@@ -6,7 +6,9 @@
 
 <details>
  <summary>거북이로 그림그리기</summary>
- ## 거북이로 그림그리기
+
+
+ ---
 
  > squareSpiral1.py  
  > 사각형을 반복해 그려 미로형태를 만듭니다  
@@ -33,7 +35,9 @@
 
 <details>
  <summary>컴퓨터에 저장하는 변수</summary>
- ## 컴퓨터에 저장하는 변수
+
+ 
+ ---
 
  ### 변수
 
@@ -74,7 +78,9 @@
 
 <details>
  <summary>반복은 즐거워</summary>
- ## 반복은 즐거워
+
+
+ ---
 
  > rosette.py  
  > 반복문이 없다면
