@@ -7,31 +7,32 @@
 <details>
  <summary>거북이로 그림그리기</summary>
 
- ###### squareSpiral1.py
- 사각형을 반복해 그려 미로형태를 만듭니다  
+ > squareSpiral1.py  
+ > 사각형을 반복해 그려 미로형태를 만듭니다  
 
- ##### squareSpiral2.py  
- 숫자 하나 바꿔 계단 니선을 만듭니다  
+ > squareSpiral2.py    
+ > 숫자 하나 바꿔 계단 니선을 만듭니다  
 
- ##### circleSpiral1.py
- 나선형 원을 그려봅니다  
+ > circleSpiral1.py  
+ > 나선형 원을 그려봅니다  
 
- ##### squareSpiral3.py  
- 빨간색 계단 나선을 만듭니다  
+ > squareSpiral3.py    
+ > 빨간색 계단 나선을 만듭니다  
 
- ##### squareSpiral4.py
- 화려한 계단 나선을 만듭니다  
+ > squareSpiral4.py  
+ > 화려한 계단 나선을 만듭니다  
 
- ##### colorCircleSpiral.py
- 화려한 나선형 원을 그려봅니다
+ > colorCircleSpiral.py  
+ > 화려한 나선형 원을 그려봅니다
 
- ##### colorSpiral.py
- 응용 끝판왕
+ > colorSpiral.py  
+ > 응용 끝판왕
 
 </details>
 
 <details>
  <summary>컴퓨터에 저장하는 변수</summary>
+
  ### 변수
 
  ##### thankYou.py
