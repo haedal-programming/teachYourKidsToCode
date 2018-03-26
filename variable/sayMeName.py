@@ -6,5 +6,8 @@ name = input("이름이 무엇입니까?")
 # 이름 100번 출력
 for x in range(100):
     # 이름을 한번 출력한 후 공백을 붙입니다
-    print(name, end = " 규칙! ")
+    print(name, end = " ")
     # end를 여러가지로 바꿔 봅시닷
+
+# 이름을 입력받자
+# 100번 출력하자

@@ -36,7 +36,7 @@
 <details>
  <summary>컴퓨터에 저장하는 변수</summary>
 
- 
+
  ---
 
  ### 변수
@@ -93,7 +93,7 @@
  > rosette6.py  
  > for문으로 6개의 장미모양 도형 만들기
 
- > rosetteGondWild.py  
+ > rosetteGoneWild.py  
  > 사용자 입력을 이용해 장미 프로그램 개선하자  
  그림 4-3 참고  
 
