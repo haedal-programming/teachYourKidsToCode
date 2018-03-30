@@ -26,10 +26,10 @@
  > 화려한 계단 나선을 만듭니다  
 
  > colorCircleSpiral.py  
- > 화려한 나선형 원을 그려봅니다
+ > 화려한 나선형 원을 그려봅니다  
 
  > colorSpiral.py  
- > 응용 끝판왕
+ > 응용 끝판왕  
 
 </details>
 
@@ -97,9 +97,50 @@
  > 사용자 입력을 이용해 장미 프로그램 개선하자  
  그림 4-3 참고  
 
+ > sayOutNames.py  
+ > 멈출때까지 이름 계속 출력하기  
+
+ > spiralFamily.py
+ > 가족 이름으로 나선형 모양 만들기
+
+ > viralSpiral.py
+ > 나선형 바이러스 만들기
+
+</details>
+
+<details>
+ <summary>조건 판정문</summary>
 
 
+ ---
 
+ > ifSpiral.py  
+ > 장미 모양과 나선형 오각형을 조합한 나선형 모양 만들자  
+
+ > oldEnough.py
+ > 운전 가능한 나이를 묻고 if문으로 판단하자
+
+ > oldEnoughOrElse.py
+ > 운전가능한 나이를 묻고 if, else문으로 판단하자  
+
+ > polygonOrRosette.py
+ >
+
+ > rosettesAndPolygons.py
+ >
+
+ > wolfman.py
+ > 늑대인간으로 변하는 예제를 사용하자
+
+ > whatToWear.py
+ >
+
+ > encoderDecoder.py
+ >
+
+ > 
+
+ ### list + range로 목록 출력
 
 
 </details>
