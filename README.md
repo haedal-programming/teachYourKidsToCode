@@ -5,7 +5,7 @@
 
 
 <details>
- <summary>거북이로 그림그리기(turtleGraphic)</summary>
+ <summary>1.거북이로 그림그리기(turtleGraphic)</summary>
 
 
  ---
@@ -34,7 +34,7 @@
 </details>
 
 <details>
- <summary>컴퓨터에 저장하는 변수(variable)</summary>
+ <summary>2.컴퓨터에 저장하는 변수(variable)</summary>
 
 
  ---
@@ -77,7 +77,7 @@
 </details>
 
 <details>
- <summary>반복은 즐거워(iterate)</summary>
+ <summary>3.반복은 즐거워(iterate)</summary>
 
 
  ---
@@ -122,7 +122,7 @@
 </details>
 
 <details>
- <summary>조건 판정문(judgeCondition)</summary>
+ <summary>4.조건 판정문(judgeCondition)</summary>
 
 
  ---
@@ -176,12 +176,12 @@
 </details>
 
 <details>
- <summary>무작위 게임 즐기기(randomGame)</summary>
+ <summary>5.무작위 게임 즐기기(randomGame)</summary>
 
 
  ---
 
- ### 모듈(Module)
+ ### 모듈(Module)의 기초
 
  ### random
 
@@ -220,5 +220,71 @@
 
  > kaleidoscope.py  
  > 거울 효과를 이용한 만화경 프로그램
+
+</details>
+
+<details>
+ <summary>6.각 기능에는 이름이 있다(function)</summary>
+
+
+ ---
+
+ ### 함수
+
+ #### 함수 정의
+
+ #### 함수 호출
+
+ ### 함수 vs 모듈
+
+ > randomSpiralsFunction.py    
+ >
+
+ ### 매개 변수
+
+ ### 스마일리 그리기
+
+ > randomSmileys.py
+ > 스마일리 천국
+
+ ### 반환값
+ 
+
+</details>
+<details>
+ <summary>7.디즈니는 어떻게 애니메이션을 만드는가(timerAnimation)</summary>
+
+
+ ---
+
+ ### 
+
+ > 
+ 
+
+</details>
+<details>
+ <summary>8.사용자 조작: 게임의 세계로(userInterface)</summary>
+
+
+ ---
+
+ ### 
+
+ > 
+ 
+
+</details>
+
+<details>
+ <summary>9.게임 프로그래밍(gameProgramming)</summary>
+
+
+ ---
+
+ ### 
+
+ > 
+ 
 
 </details>
