@@ -1,6 +1,9 @@
 import random
+# 1에서 100 사이 임의의 수를 뽑고
 the_number = random.randint(1,100)
+# 사용자가 맞추도록 반복해 입력받자
 guess = int(input("1부터 100사이의 숫자를 맞춰보세요: "))
+# 입력한 숫자가 맞는지 판단하자
 while guess != the_number:
     if guess > the_number:
         print(guess, "너무 높습니다. 다시 시도해주세요.")
@@ -11,3 +14,4 @@ print(guess, "맞습니다! 당신이 이겼습니다!")
 
 # 1에서 100 사이 임의의 수를 뽑고
 # 사용자가 맞추도록 반복해 입력받자
+# 입력한 숫자가 맞는지 판단하자
