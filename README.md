@@ -265,7 +265,7 @@
 
  ### 함수 vs 모듈
 
- > randomSpiralsFunction.py    
+ > randomSpiralsFunction.py      
  > 함수를 사용해 임의의 크기와 색, 위치를 가지는 나선형 만들기  
 
  ### 매개 변수 : 함수에 정보 전달하기
@@ -286,7 +286,7 @@
 
  #### 입 그리기 - 코드
 
- > randomSmileys.py
+ > randomSmileys.py  
  > 스마일리 천국
 
  ### 반환값 : 함수가 주는 정보
@@ -294,34 +294,34 @@
 
  ### 함수에서 반환값은 어디에?
 
- > pingPongCalculator.py
+ > pingPongCalculator.py  
  > 몇 개의 탁구공이 있어야 내 키와 몸무게가 될까?
 
  ### 사용자 조작에 반응하기
 
  ### 이벤트 처리하기: 거북이로 그리기
 
- > turtleDraw.py
+ > turtleDraw.py  
  > 마우스 클릭으로 그림그리기
 
- > turtleMax.py
+ > turtleMax.py  
  > 두꺼운 선을 마우스 클릭으로 그림그리기
 
  ### 키보드 조작에 반응햐기: 방향 키로 그리기
 
- > arrowDraw.py
- > 키보드 방향 키로 그리기
+ > arrowDraw.py  
+ > 키보드 방향 키로 그리기  
 
- > clickSpiral.py
- > 클릭해 나선형 그리기
+ > clickSpiral.py  
+ > 클릭해 나선형 그리기  
 
- > clickAndSmile.py
- > 클릭해 스마일리 그리기
+ > clickAndSmile.py  
+ > 클릭해 스마일리 그리기  
 
  ### 클릭해 만화경 효과 그리기
 
- > clickKaleidoscope.py
- > 클릭해 만화경 효과 그리기
+ > clickKaleidoscope.py  
+ > 클릭해 만화경 효과 그리기  
 
 
  ### 자신만의 모듈 만들기
